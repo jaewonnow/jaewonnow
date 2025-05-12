@@ -1,6 +1,14 @@
 ## Hi there 👋
 
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jaewonnow&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/jaewonnow"
+    width="600"
+    height="120"
+  />
+</a>
+  
 <!-- 3D 잔디 이미지 -->
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 <div align= "center">
