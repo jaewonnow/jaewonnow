@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jaewonnow&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/jaewonnow"
-    width="600"
-    height="120"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jaewonnow&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/jaewonnow"
+  width="1000"
+  height="600"
+/>
 </a>
   
 <!-- 3D 잔디 이미지 -->
