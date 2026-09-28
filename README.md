@@ -16,9 +16,10 @@
 
 - Python과 DuckDB로 데이터를 정제하고, Apache Iceberg의 Bronze → Silver → Gold 계층으로 적재하는 ETL 파이프라인을 구현했습니다.
 - Airflow와 Docker로 배치 워크플로를 구성하고, CDC 변경분을 Neo4j에 증분 반영하는 구조를 설계했습니다.
+- Streamlit과 Athena로 Iceberg 테이블 상태를 확인하고 장애 지표를 드릴다운하는 운영 UI를 개발했습니다.
 - AWS S3·Glue Catalog·EC2 환경에서 데이터 파이프라인을 운영하고 있습니다.
 - Java와 Spring Boot 기반의 API 개발에 참여하며 JPA, MySQL, Spring Security와 AWS 인프라를 경험했습니다.
-- 대규모 시스템 설계와 분산 컴퓨팅을 꾸준히 학습하고, TypeScript 기반 오픈소스 AI 프로젝트도 탐색하고 있습니다.
+- 대규모 시스템 설계와 분산 컴퓨팅을 꾸준히 학습하고 있습니다.
 
 ## Tech stack
 
@@ -37,7 +38,6 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -45,6 +45,12 @@
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Monitoring Stack**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Amazon Athena](https://img.shields.io/badge/Amazon_Athena-8C4FFF?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS_Glue-7AA116?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 **Developer Tools**
 
@@ -62,7 +68,7 @@
 | [2025 Engineering Study](https://github.com/BOAZ-bigdata/25-2_MMStudy_Engineering_C) | 빅데이터 기술과 대규모 시스템 설계를 학습하고 토론한 BOAZ 스터디 |
 | [2026 Engineering Study](https://github.com/BOAZ-bigdata/26-1_MMStudy_Engineering_C) | 데이터 시스템과 분산 컴퓨팅을 학습하고 정리한 BOAZ 스터디 |
 | [BOAZ Website Backend](https://github.com/BOAZ-website/backend) | Spring Boot와 AWS 기반의 BOAZ 공식 홈페이지 백엔드 API |
-| [OpenClaw](https://github.com/jaewonnow/openclaw) | 개인 AI 어시스턴트 오픈소스 프로젝트를 탐색하기 위한 포크 |
+| [Iceberg UI](https://github.com/4EVR0/Iceberg_UI) | Glue/Iceberg 테이블 상태와 Athena 기반 장애 지표 드릴다운을 제공하는 Streamlit 운영 UI |
 
 ## Activity
 
