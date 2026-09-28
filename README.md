@@ -54,8 +54,9 @@
 ## Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaewonnow&show_icons=true&hide_border=true&theme=transparent" height="155" alt="Jaewon's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaewonnow&layout=compact&hide_border=true&theme=transparent" height="155" alt="Jaewon's most used languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaewonnow&theme=github_dark" width="100%" alt="Jaewon's GitHub activity" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaewonnow&theme=github_dark" height="180" alt="Jaewon's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaewonnow&theme=github_dark" height="180" alt="Jaewon's top languages by repository" />
 </div>
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
