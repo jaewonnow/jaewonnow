@@ -8,6 +8,7 @@
 파이프라인을 직접 구성하고 운영 관점에서 개선하며 배운 내용을 기록합니다.
 
 [![GitHub](https://img.shields.io/badge/GitHub-jaewonnow-181717?style=flat-square&logo=github)](https://github.com/jaewonnow)
+[![Velog](https://img.shields.io/badge/Velog-jaewon77-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@jaewon77/posts)
 
 </div>
 
