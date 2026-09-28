@@ -14,32 +14,37 @@
 
 ## About me
 
-- 데이터 수집부터 변환·적재까지 이어지는 파이프라인을 설계하고 구현합니다.
-- 재현 가능한 개발 환경과 자동화된 워크플로를 중요하게 생각합니다.
-- 최근에는 Apache Iceberg, Kafka Connect, dbt, Airflow를 중심으로 데이터 플랫폼을 공부하고 있습니다.
-- FastAPI 기반 백엔드와 AWS 인프라 역량도 함께 쌓고 있습니다.
+- Python과 DuckDB로 데이터를 정제하고, Apache Iceberg의 Bronze → Silver → Gold 계층으로 적재하는 ETL 파이프라인을 구현했습니다.
+- Airflow와 Docker로 배치 워크플로를 구성하고, CDC 변경분을 Neo4j에 증분 반영하는 구조를 설계했습니다.
+- AWS S3·Glue Catalog·EC2 환경에서 데이터 파이프라인을 운영하고 있습니다.
+- Java와 Spring Boot 기반의 API 개발에 참여하며 JPA, MySQL, Spring Security와 AWS 인프라를 경험했습니다.
+- 대규모 시스템 설계와 분산 컴퓨팅을 꾸준히 학습하고, TypeScript 기반 오픈소스 AI 프로젝트도 탐색하고 있습니다.
 
 ## Tech stack
 
-**Data Engineering**
+**Data Engineering & Storage**
 
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-4A90E2?style=flat-square&logo=apache&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 **Backend & Database**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-**Infrastructure & Tools**
+**Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
