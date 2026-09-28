@@ -46,10 +46,12 @@
 
 | Project | What I explored |
 | --- | --- |
-| [25 Winter AO Study — Database](https://github.com/jaewonnow/25_Winter_AO_Study_DB) | 데이터베이스와 데이터 엔지니어링 주제를 함께 학습하고 정리한 스터디 |
-| [Kafka Connect](https://github.com/jaewonnow/kafka_connect) | JDBC Connector를 활용한 데이터 연동 실습 환경 |
-| [FastAPI](https://github.com/jaewonnow/myFastAPI) | FastAPI, SQLAlchemy, Jinja2로 구성한 계층형 웹 애플리케이션 |
-| [AWS SAA Study](https://github.com/jaewonnow/AWS_SAA_Study) | AWS 인프라, IAM, 네트워크와 주요 서비스를 학습한 기록 |
+| [jaewonnow](https://github.com/jaewonnow/jaewonnow) | 현재 보고 있는 GitHub 프로필 README와 자동화 워크플로 |
+| [Oliveyoung Pipeline](https://github.com/4EVR0/Oliveyoung_Pipeline) | 올리브영 성분 데이터를 Bronze → Silver → Gold로 가공하는 Iceberg ETL 파이프라인 |
+| [2025 Engineering Study](https://github.com/BOAZ-bigdata/25-2_MMStudy_Engineering_C) | 빅데이터 기술과 대규모 시스템 설계를 학습하고 토론한 BOAZ 스터디 |
+| [2026 Engineering Study](https://github.com/BOAZ-bigdata/26-1_MMStudy_Engineering_C) | 데이터 시스템과 분산 컴퓨팅을 학습하고 정리한 BOAZ 스터디 |
+| [BOAZ Website Backend](https://github.com/BOAZ-website/backend) | Spring Boot와 AWS 기반의 BOAZ 공식 홈페이지 백엔드 API |
+| [OpenClaw](https://github.com/jaewonnow/openclaw) | 개인 AI 어시스턴트 오픈소스 프로젝트를 탐색하기 위한 포크 |
 
 ## Activity
 
@@ -59,4 +61,4 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaewonnow&theme=github_dark" height="180" alt="Jaewon's top languages by repository" />
 </div>
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
+<img src="./profile-3d-contrib/profile-night-rainbow.svg?v=36398120085" width="100%" alt="3D contribution graph" />

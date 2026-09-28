@@ -18,6 +18,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Refresh README image cache key
+        run: |
+          sed -i -E "s#(profile-night-rainbow\\.svg)(\\?v=[0-9]+)?#\\1?v=${GITHUB_RUN_ID}#g" README.md
       - name: Commit & Push
         run: |
           git config user.name github-actions[bot]
