@@ -78,4 +78,4 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaewonnow&theme=github_dark" height="180" alt="Jaewon's top languages by repository" />
 </div>
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg?v=37067602546" width="100%" alt="3D contribution graph" />
+<img src="./profile-3d-contrib/profile-night-rainbow.svg?v=37151149423" width="100%" alt="3D contribution graph" />
